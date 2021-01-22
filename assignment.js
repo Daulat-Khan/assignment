@@ -1,4 +1,4 @@
-// githun link goes here
+// https://github.com/Daulat-Khan/assignment
 
 //1) kilometerToMeter
 
